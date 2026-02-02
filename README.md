@@ -8,5 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've watch Stargate SG-1 entirely about 10 times
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freego1783&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Freego1783's github stats](https://github-readme-stats.vercel.app/api?username=Freego1783&amp;theme=dark)](https://github.com/Freego1783/github-readme-stats)
